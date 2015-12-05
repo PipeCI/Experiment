@@ -1,0 +1,18 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "PipeCI.Experiment Class Library",
+  "authors": [ "Amamiya Yuuko" ],
+  "tags": [ "" ],
+  "projectUrl": "https://github.com/pipeci/experiment",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "EntityFramework.Core": "7.0.0-rc1-final",
+    "CodeComb.Package": "2.0.0-rc1-final"
+  },
+
+  "frameworks": {
+    "net451": { },
+    "dotnet5.4": { }
+  }
+}
